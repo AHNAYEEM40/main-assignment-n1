@@ -128,3 +128,43 @@ padding:auto 20px;
  position: absolute;
  
 }
+.forth{
+
+    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+
+ text-align: center;
+}
+.forth-step{
+
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+ text-align: center;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize; 
+}
+.spani{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+
+
+}
+.botton{
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    font-size: ;
+    gap: 10px;
+    border-radius: 8px;
+background: #F00;
+
+ 
+}
