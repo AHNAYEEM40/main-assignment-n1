@@ -161,10 +161,70 @@ padding:auto 20px;
     padding: 16px 32px;
     justify-content: center;
     align-items: center;
-    font-size: ;
-    gap: 10px;
+    font-size: 40px;
+    gap: 20px;
     border-radius: 8px;
 background: #F00;
 
  
+}
+.off{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    }
+.Soon{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.dolorem{
+
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+
+}
+.full-with-4{
+
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+ 
+    border-radius: 463px ;
+    border: 25px solid #F00;
+}
+.year{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+.our{
+
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+
+}
+.redious-section{
+    display: flex;
+
+
+}
+.dedline{
+padding: 30px 80px;
+
+}
+.new-year-offer{
+    text-align: right;
+  
 }
