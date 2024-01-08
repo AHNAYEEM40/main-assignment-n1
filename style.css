@@ -70,8 +70,61 @@ font-size: 48px;
 font-weight: 700;
 }
 .image-tow{
-
     width: 802.9px;
 height: 500px;
 margin: 40px;
+padding: 60px 350px;
+}
+.midnight{
+color: #FFF;
+font-family: Merriweather;
+font-size: 54px;
+font-weight: 900px;
+line-height: 88px; 
+width: 642px; 
+padding:150px 20px;
+
+text-align:bottom left ;
+}
+.Dolor{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+padding:auto 20px;
+
+
+}
+
+.midnight-perty{
+
+ text-align: left;
+ padding:40px 20px;
+ margin-bottom: 24px;
+ 
+}
+
+
+
+.big-img{
+    background-image: url("resources/Vectorrr.png");
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    width: 1320px;
+    height: 600px; 
+    margin: 0 auto;
+    border-radius: 16px;
+    text-align:left center;
+}
+
+
+.third-image{
+ display: flex;
+ padding:0px 900px 0px ;
+ margin: 20px 30px 0px 00px;
+ position: absolute;
+ 
 }
