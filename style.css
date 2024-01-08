@@ -45,3 +45,33 @@ font-weight: 400;
     font-weight: 900;
     line-height: 95px; 
 }
+/* second section */
+.best-offfer{
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+} 
+.deal{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+     font-weight: 500;
+   }
+   .ALL{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.image-tow{
+
+    width: 802.9px;
+height: 500px;
+margin: 40px;
+}
