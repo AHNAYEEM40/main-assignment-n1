@@ -281,13 +281,15 @@ align-items: center;
     line-height: 32px;
 }
 .sub{
+    flex:2;
     text-align: center;
  border-radius: 0px 50px 50px 0px;
  border-radius: 50px;
 background: #FFF;
+border: none;
 }
 .sub2{
-
+flex-grow:30;
     border-radius: 0px 50px 50px 0px;
 background: #F00;
 }
@@ -296,4 +298,20 @@ background: #F00;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.footers{
+    background: #070211;
+    display:flex;
+}
+.iconic{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.insubscribe{
+color: #FFF;
+    text-align: right;
+}
+.street{
+    color: #FFF;
 }
