@@ -94,6 +94,7 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
 padding:auto 20px;
+margin: -150px 0px 0px 5px;
 
 
 }
@@ -129,10 +130,13 @@ padding:auto 20px;
  
 }
 .forth{
-
-    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-
+background-color:lightgoldenrodyellow;
+ width: 1400px;
+ height: 430px;
+ padding: 30px ; 
+align-items: center;
  text-align: center;
+ position: relative;
 }
 .forth-step{
 
@@ -217,7 +221,9 @@ line-height: 32px;
 }
 .redious-section{
     display: flex;
-
+background-color: #dfdae999;
+margin: 0px auto;
+border-radius: 16px;
 
 }
 .dedline{
@@ -258,6 +264,16 @@ line-height: 32px;
 align-items: center;
 
 }
+
+.subn{
+
+
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 506px;
+
+}
 .nesi{
     align-items: center;
     padding: 150px 150px;
@@ -289,10 +305,13 @@ background: #FFF;
 border: none;
 }
 .sub2{
+    align-items: center;
+    justify-content: center;
 flex-grow:30;
     border-radius: 0px 50px 50px 0px;
 background: #F00;
 }
+
 .icon{
 
     display: flex;
