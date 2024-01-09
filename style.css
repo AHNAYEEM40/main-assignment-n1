@@ -299,6 +299,8 @@ background: #F00;
     justify-content: center;
     align-items: center;
 }
+/* footer section*/
+
 .footers{
     background: #070211;
     display:flex;
@@ -309,8 +311,9 @@ background: #F00;
     display: flex;
 justify-content: center;
 align-items: center;
-margin-bottom: 30px 30px;
+margin-bottom: 40px 40px 40px 40px;
 padding: 0px 0px 10px 1150px;
+gap: 10px;
 }
 .insubscribe{
     color: #FFF;
