@@ -302,16 +302,47 @@ background: #F00;
 .footers{
     background: #070211;
     display:flex;
+    width: 2600px;
+    height: 500px;
 }
 .iconic{
     display: flex;
 justify-content: center;
 align-items: center;
+margin-bottom: 30px 30px;
+padding: 0px 0px 10px 1150px;
 }
 .insubscribe{
-color: #FFF;
-    text-align: right;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding: 150px 0px 0px 150px;
 }
 .street{
     color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; 
+padding:150px ;
+}
+.foter{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px 10px 10px 150px;
+
+
+}
+.lastpart{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 430px 50px 0px 100px;
+
+
 }
